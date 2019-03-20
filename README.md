@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/git/git/_apis/build/status/git.git)](https://dev.azure.com/git/git/_build/latest?definitionId=11)
 
+I am making some tests here just for some performance numbers between source control systems.
+
 Git - fast, scalable, distributed revision control system
 =========================================================
 
